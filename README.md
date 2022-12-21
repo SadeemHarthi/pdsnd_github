@@ -7,7 +7,8 @@ I created this project and README file in 12 dec2022.
 The Project Title: bikeshare project
 
 ### Description
-Describe what your project is about and what it does
+In this project,i used Python to explore data related to bike share systems for three major cities in the United States.
+I wrote code to import the data and answer interesting questions about it by computing descriptive statistics.
 
 ### Files used
 Include the files used
