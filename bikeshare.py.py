@@ -187,7 +187,7 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
-
+    print("I hope your exploration on US bikeshare data was fun and helpful.")
 
 if __name__ == "__main__":
 	main()
