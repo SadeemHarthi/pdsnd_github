@@ -18,3 +18,6 @@ I wrote code to import the data and answer interesting questions about it by com
 1- chicago.csv
 2- new_york_city.csv
 3- washington.csv
+
+### Credits
+Thank you Udacity.
