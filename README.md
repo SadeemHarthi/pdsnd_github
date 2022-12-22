@@ -10,6 +10,11 @@ The Project Title: bikeshare project
 In this project,i used Python to explore data related to bike share systems for three major cities in the United States.
 I wrote code to import the data and answer interesting questions about it by computing descriptive statistics.
 
-### software used
+### Software used
 1- python
 2- terminal application
+
+### Files used
+1- chicago.csv
+2- new_york_city.csv
+3- washington.csv
