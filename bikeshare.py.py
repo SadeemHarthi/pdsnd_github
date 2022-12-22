@@ -171,7 +171,8 @@ def main():
         user_input= input(" Do you want to see more data? \n -enter 'yes' for more data \n -enter no if you don\'t more data \n").lower()
         while user_input.lower() not in raw_data:
             user_input= input("Please enter 'yes' or 'no'").lower()
-            
+        
+        #using while loop to display new 5 raw data as long as the user entering 'yes'    
         while True:
             if user_input.lower() == 'yes':
                 print(df.iloc[n : n+5])
@@ -186,7 +187,7 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
-
+    print("I hope your exploration on US bikeshare data was fun and helpful.")
 
 if __name__ == "__main__":
 	main()
